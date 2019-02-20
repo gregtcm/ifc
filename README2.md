@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# ifc
+Idaho Family Camp
+>>>>>>> f526ebcfe1358632e8fa635b76b1adebfbb7f8da
